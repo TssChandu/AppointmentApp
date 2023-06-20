@@ -1,0 +1,34 @@
+.list-container {
+  border: 1px solid #b5b7c4;
+  padding: 10px;
+  border-radius: 8px;
+  margin-right: 15px;
+}
+.star-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.title-name {
+  color: #171f46;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+.star-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}
+.star-img {
+  width: 20px;
+  height: 20px;
+}
+.date-input {
+  color: #b5b7c4;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: 'Roboto';
+}
